@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Outfit fallback";
+  src: local("Segoe UI Semibold");
+  font-style: normal;
+  font-weight: 600;
+  size-adjust: 101.5196%;
+  ascent-override: 98.5031%;
+  descent-override: 25.6108%;
+  line-gap-override: 0.0000%;
+}
+
+@font-face {
+  font-family: "Outfit fallback";
+  src: local("Segoe UI Bold");
+  font-style: normal;
+  font-weight: 700;
+  size-adjust: 98.8877%;
+  ascent-override: 101.1249%;
+  descent-override: 26.2925%;
+  line-gap-override: 0.0000%;
+}
+
+@font-face {
+  font-family: "Source Sans 3 fallback";
+  src: local("Segoe UI");
+  font-style: normal;
+  font-weight: 400;
+  size-adjust: 95.1420%;
+  ascent-override: 107.6286%;
+  descent-override: 42.0424%;
+  line-gap-override: 0.0000%;
+}
+
+@font-face {
+  font-family: "Source Sans 3 fallback";
+  src: local("Segoe UI Semibold");
+  font-style: normal;
+  font-weight: 600;
+  size-adjust: 95.1091%;
+  ascent-override: 107.6658%;
+  descent-override: 42.0570%;
+  line-gap-override: 0.0000%;
+}
